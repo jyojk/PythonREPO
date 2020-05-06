@@ -1,0 +1,26 @@
+#myimage{
+    background-image: url('');
+}
+.container-fluid{
+    margin-top: 450px;
+    margin-left: 600px;
+}
+
+#divtextcolor{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, serif;
+    font-size: 20px !important;
+}
+
+#middle{
+    color: black;
+}
+
+#slogan{
+    color: black;
+    float: center;
+    padding-top: 220px;
+    font-family: "Impact, serif";
+    font-size: 80px;
+}
+
