@@ -1,4 +1,2 @@
 Added new file.
 Added new line in .txt file
-
-Added second new line in .txt file and now this line should be removed
