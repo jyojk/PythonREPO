@@ -1,2 +1,4 @@
 Added new file.
 Added new line in .txt file
+
+Added this line now, we are removing the line "Added new line in .txt file"
