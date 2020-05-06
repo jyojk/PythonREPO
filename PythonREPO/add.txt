@@ -1,4 +1,7 @@
 Added new file.
+<<<<<<< HEAD
 Added new line in .txt file
 
 Added this line now, we are removing the line "Added new line in .txt file"
+=======
+>>>>>>> parent of 1ec53a6... Added new line in .txt file
